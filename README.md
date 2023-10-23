@@ -5,7 +5,7 @@
 
 Install FastDiscordNitroGen with ```git clone```
 
-```bash
+```cmd
 git clone https://github.com/thefzmoon/FastDiscordNitroGen.git
 cd FastDiscordNitroGen
 py main.py

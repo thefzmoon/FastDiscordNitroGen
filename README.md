@@ -1,6 +1,5 @@
 # FastDiscordNitroGen
- Just a fast !!UNCHECKED!! discord nitro gen!
-
+ Yes i get it's a bit skiddy but im just uploading small projects to my page! 
 ## Installation
 
 Install FastDiscordNitroGen with ```git clone```
